@@ -1,0 +1,51 @@
+{
+    "title": "Roadmap",
+    "items": [
+        {
+            "quarter": "Q2 2021",
+            "title" : "iBNB finance project is born",
+            "details" : [
+                "Team shift focus from previous project to work on a new breakthrough idea",
+                "Expectations vs outcomes weighed up to see if the project is feasible",
+                "Team begin working on the back-end development of contract code as well as website and DaPP integrations",
+                "Stealth marketing campaign dropping small info about the new project in a select number of Telegram channels to allow word to spread organically",
+                "Begin writing the whitepaper getting it ready for Q3"
+            ]
+        },
+        {
+            "quarter": "Q3 2021",
+            "title" : "iBNB website, whitepaper and contract is released",
+            "details" : [
+                "Contract finished",
+                "Contract Audited",
+                "Website and DaPP functionality completed",
+                "Presale contract live",
+                "Website and Whitepaper Launched",
+                "Team Doxxed",
+                "Real marketing campaign begins",
+                "Global marketing networks begin operation, raising awareness in all continents",
+                "Initial coin sales begin",
+                "Token is publicly tradable on Pancake Swap",
+                "CMC, Coingecko Applications are submitted"
+            ]
+        },
+        {
+            "quarter": "Q4 2021",
+            "title" : "Full steam ahead",
+            "details" : [
+                "iBNB Fully trading and BNB rewards increasing",
+                "Marketing campaign ramps up",
+                "Website redesign and possible rebranding",
+                "Partnerships",
+                "Starting work on iBNBv2 platform and Dapps"
+            ]
+        },
+        {
+            "quarter": "Q1 2022",
+            "title" : "The world is our oyster",
+            "details" : [
+                "Finishing up work on iBNBv2 getting ready for launch later on in the year"
+            ]
+        }
+    ]
+}
